@@ -2,8 +2,8 @@ import {
   call,
   all,
   put,
-  takeEvery,
-  takeLatest,
+  //   takeEvery,
+  //   takeLatest,
   takeLeading,
 } from "redux-saga/effects";
 import { INIT_LIST } from "../store/actionType";
